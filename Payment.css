@@ -1,0 +1,53 @@
+.payment-form {
+    max-width: 400px;
+    
+    margin-left: 500px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+
+    padding: 20px;
+    background-color: #b43131;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    background-image: url("https://wallpaperaccess.com/full/4597113.jpg");
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+ 
+  
+  input[type="tex"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .expiry-cvv-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .but {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-image: #7a4caf;
+    color: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } 
+
+   /* button:hover {
+    background-color: #45a049;
+  } */

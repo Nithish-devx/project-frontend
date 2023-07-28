@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.topic{
+    margin-left: 28vw;
+    flex-direction: left;
+    margin-top: 250px;
+    font-size: 30px;
+    color:rgb(107, 178, 240);
+}
+.glassmorphism {
+    width: 450px;
+    height:500px;
+    padding: 30px;
+  
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  .boom{
+    background-image: url("https://wallpaperaccess.com/full/4597148.jpg");
+    background-size: cover;
+  }
+  .top{
+    
+    width: auto;
+    height: 900px;
+  }
+.topic2{
+    margin-left: -5vw;
+    margin-top: 350px;
+    flex:left;
+    font-size: 30px;
+    color:rgb(132, 208, 252);
+}
+body{
+    background-image: url("https://wallpaperaccess.com/full/4597148.jpg");
+}
+.box{
+    
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-left: 1vw;
+    flex:right;
+    width: 450px;
+    height: 500px;
+    border-radius: 2%;
+    color: rgb(107, 178, 240);
+    
+    
+    background-size: cover;
+    box-shadow: rgb(7, 21, 36) 0px 20px 30px -10px;
+    font-family: cursive;
+    position:relative;
+}
+.row1{
+    color:rgb(112, 119, 245);
+    font-size: larger;
+    font-family: cursive;
+    color: rgb(8, 131, 238);
+}
+input{
+    border-color: rgb(106, 117, 242);
+    width: 250px;
+    height: 30px;
+    font-family: cursive;
+    color:rgb(78, 96, 227);
+}
+button{
+    width: 705px;
+    height: 30px;
+    font-family: cursive;
+    color: rgb(46, 126, 217);
+    color:rgb(201, 18, 18);
+
+}
+/* button:hover:not(.active){
+    width: 75px;
+    height: 30px;
+    background-color: rgb(251, 250, 249);
+    font-family: cursive;
+    color: rgb(56, 68, 243);
+} */
